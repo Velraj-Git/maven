@@ -8,11 +8,11 @@
     <input type="text" placeholder="Enter Full Rahul" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter User phone number</b></label>
+    <label for="mobile"><b>Enter User phone </b></label>
     <input type="text" placeholder="Enter phone number" name="mobile" id="mobile" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter mobile Number</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
